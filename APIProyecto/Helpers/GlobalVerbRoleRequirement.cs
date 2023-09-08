@@ -6,7 +6,7 @@ namespace APIProyecto.Helpers;
     {
         public bool IsAllowed(string role, string verb)
         {
-            if(string.Equals("Administrator", role, StringComparison.OrdinalIgnoreCase)) return true;
+            if(string.Equals("Administrador", role, StringComparison.OrdinalIgnoreCase)) return true;
             if(string.Equals("Gerente", role, StringComparison.OrdinalIgnoreCase)) return true;
 
             if(string.Equals("empleado", role, StringComparison.OrdinalIgnoreCase) && string.Equals("GET", verb, StringComparison.OrdinalIgnoreCase))
