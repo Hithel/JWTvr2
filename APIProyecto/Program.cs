@@ -23,12 +23,12 @@ builder.Services.AddJwt(builder.Configuration);
 
 
 
-builder.Services.AddAuthorization(opts =>{
-    opts.DefaultPolicy = new AuthorizationPolicyBuilder()
-        .RequireAuthenticatedUser()
-        .AddRequirements(new GlobalVerbRoleRequirement())
-        .Build();
-});
+// builder.Services.AddAuthorization(opts =>{
+//     opts.DefaultPolicy = new AuthorizationPolicyBuilder()
+//         .RequireAuthenticatedUser()
+//         .AddRequirements(new GlobalVerbRoleRequirement())
+//         .Build();
+// });
 
 
 builder.Services.AddDbContext<ApiContext>(options =>

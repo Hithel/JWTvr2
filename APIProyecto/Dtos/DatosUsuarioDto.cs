@@ -1,5 +1,7 @@
 
 
+using Newtonsoft.Json;
+
 namespace APIProyecto.Dtos;
     public class DatosUsuarioDto
     {
@@ -9,4 +11,9 @@ namespace APIProyecto.Dtos;
         public string Email { get; set; }
         public List<string> Roles { get; set; }
         public string Token { get; set; }
+
+        [JsonIgnore] // ->this attribute restricts the property to be shown in the result
+        public string RefreshToken { get; set; }
+        public DateTime RefreshTokenExpiration { get; set; }        
     }
+    

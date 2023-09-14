@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7A7GHaDKs90ch00oKnFVdVM8wIicZAE6DDeTAZRrdH7b3EkrDtDJJNnznrWdZuBaDLJUzxyrm+rG98Tg955cA==",
+  "dgSpecHash": "9otuUp/fwvGCO9Zuy6uvCXZxcXA0xvrpZ27+vXTif0AU1e61CNgT1XOXxMbAucauJFB/9vcWAnSfv9DLOeStiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APT01-039\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
@@ -11,9 +11,9 @@
     "C:\\Users\\APT01-039\\.nuget\\packages\\itext.commons\\8.0.1\\itext.commons.8.0.1.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\itext7\\8.0.1\\itext7.8.0.1.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.1.0\\microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
-    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
-    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
-    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
+    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
+    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
+    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.11\\microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

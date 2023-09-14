@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "swVkQ1IKXrZeaIxtxNVv7JaOh6ZU34xfipoiX7qrvkWSWQuTfwMEM2IS7b+Z8A3bcRfN1/w1SQrZC4egvq4YTQ==",
+  "dgSpecHash": "WTTFSPjCD3483J4HhjSfuDAhrhsI9mTxqdkV7kUipy2gUR5gZ1eyT4TRPfyr7gAfb19bqLCFl+AxBQ+Cjs+NNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
@@ -11,9 +11,9 @@
     "C:\\Users\\APT01-039\\.nuget\\packages\\itext.commons\\8.0.1\\itext.commons.8.0.1.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\itext7\\8.0.1\\itext7.8.0.1.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.1.0\\microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
-    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
-    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
-    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
+    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
+    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
+    "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.11\\microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\APT01-039\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",

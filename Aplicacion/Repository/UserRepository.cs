@@ -36,4 +36,20 @@ public class UserRepository : GenericRepo<User>, IUser
             .Include(p => p.Roles)
             .FirstOrDefaultAsync(p => p.UserName.ToLower() == UserName.ToLower());
         }
+
+            public async Task<User> GetByRefreshTokenAsync(string refreshToken)
+    {
+        return await _context.Users
+            .Include(u => u.Roles)
+            .Include(u => u.RefreshTokens)
+            .FirstOrDefaultAsync(u => u.RefreshTokens.Any(t => t.Token == refreshToken));
+    }
+
+    public async Task<User> GetByUsernameAsync(string username)
+    {
+        return await _context.Users
+            .Include(u => u.Roles)
+            .Include(u => u.RefreshTokens)
+            .FirstOrDefaultAsync(u => u.UserName.ToLower() == username.ToLower());
+    }
 }

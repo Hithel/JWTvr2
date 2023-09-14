@@ -125,8 +125,8 @@
               "C:\\Users\\APT01-039\\Documents\\Proyecto\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -200,7 +200,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "itext7": {
               "target": "Package",
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\APT01-039\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\APT01-039\\Documents\\Proyecto\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-039\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -267,7 +267,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.11, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
